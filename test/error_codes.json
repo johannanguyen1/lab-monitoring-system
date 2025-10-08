@@ -1,0 +1,7 @@
+{
+    "0": "OK / No error",
+    "101": "Overheat detected – check coolant flow",
+    "202": "Sensor disconnected or faulty",
+    "303": "Low pressure in chiller line",
+    "404": "Communication loss with subsystem"
+}
