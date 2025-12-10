@@ -177,6 +177,9 @@ void setup() {
   udp.begin(udpPort);
 
   Serial.println("ESP32 Chiller UDP Monitor Started...");
+
+  // Initial test message
+  sendUDP("ALARM:Testing Slack Integration");
 }
 
 void loop() {

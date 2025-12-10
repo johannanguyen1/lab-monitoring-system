@@ -29,6 +29,7 @@ void setup() {
   
   delay(1000);
   Serial.println("ESP32 Thermo Chiller Monitor Started...");
+  
 }
 
 void loop() {
